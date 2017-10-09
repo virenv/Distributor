@@ -1,0 +1,16 @@
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\PdfDataProvider.dll.config
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\PdfDataProvider.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\PdfDataProvider.pdb
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\EntityFramework.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\EntityFramework.SqlServer.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\System.Data.SQLite.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\System.Data.SQLite.EF6.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\System.Data.SQLite.Linq.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\EntityFramework.xml
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\EntityFramework.SqlServer.xml
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\Newtonsoft.Json.pdb
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\x64\Release\System.Data.SQLite.xml
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\obj\x64\Release\PdfDataProvider.dll
+C:\Users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\obj\x64\Release\PdfDataProvider.pdb

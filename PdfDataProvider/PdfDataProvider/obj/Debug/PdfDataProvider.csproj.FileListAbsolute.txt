@@ -1,0 +1,9 @@
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\Debug\PdfDataProvider.dll
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\Debug\PdfDataProvider.pdb
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\Debug\Newtonsoft.Json.dll
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\Debug\System.Data.SQLite.DLL
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\Debug\Newtonsoft.Json.pdb
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\bin\Debug\Newtonsoft.Json.xml
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\obj\Debug\PdfDataProvider.csprojResolveAssemblyReference.cache
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\obj\Debug\PdfDataProvider.dll
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\PdfDataProvider\obj\Debug\PdfDataProvider.pdb

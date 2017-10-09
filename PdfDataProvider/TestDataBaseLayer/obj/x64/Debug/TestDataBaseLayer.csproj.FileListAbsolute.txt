@@ -1,0 +1,13 @@
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\obj\x64\Debug\TestDataBaseLayer.csprojResolveAssemblyReference.cache
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\TestDataBaseLayer.exe.config
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\TestDataBaseLayer.exe
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\TestDataBaseLayer.pdb
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\PdfDataProvider.dll
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\System.Data.SQLite.dll
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\PdfDataProvider.pdb
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\obj\x64\Debug\TestDataBaseLayer.exe
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\obj\x64\Debug\TestDataBaseLayer.pdb
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\System.Data.SQLite.xml
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\Newtonsoft.Json.dll
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\Newtonsoft.Json.pdb
+c:\users\viren\documents\visual studio 2015\Projects\PdfDataProvider\TestDataBaseLayer\bin\x64\Debug\Newtonsoft.Json.xml
